@@ -45,7 +45,6 @@ img {
 .section {
   padding-top: 120px;
   padding-bottom: 120px;
-  max-width: 1440px;
   margin-right: auto;
   margin-left: auto;
 }
@@ -162,6 +161,7 @@ img {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  max-width: 1440px;
 }
 
 .main-form-title {
